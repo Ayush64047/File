@@ -1,2 +1,2 @@
-worker: python3 -m Adarsh
+web: python -m Adarsh
  
